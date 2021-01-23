@@ -2,7 +2,7 @@
 
 This is an extended version of strapi-provider-upload-cloudinary
 
-##Installation
+## Installation
 First `npm i strapi-provider-upload-cloudinary` then go to `node_modules` and find the folder named `strapi-provider-upload-cloudinary.` Then click the `lib` directory and then copy the `index.js` from this repo and paste it there in the `index.js`. 
 
 ## Configurations
